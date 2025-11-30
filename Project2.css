@@ -137,7 +137,7 @@ body {
 
   .search button {
     width: 45px;
-    height: 45px;
+    height: 57px;
   }
 
   .weather-icon {
@@ -208,3 +208,4 @@ body {
     font-size: 10px;
   }
 }
+
