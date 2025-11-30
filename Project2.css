@@ -172,8 +172,9 @@ body {
   }
 
   .search button {
-    max-width: unset;
+    width: 40px;
     height: 40px;
+    border-radius: 50%; /* Keep button perfectly rounded */
   }
 
   .search button img {
@@ -208,4 +209,3 @@ body {
     font-size: 10px;
   }
 }
-
