@@ -95,7 +95,6 @@ body {
   display: none;
 }
 
-/* Small screens */
 @media (max-width: 472px) {
   .search input {
     font-size: 16px;
@@ -127,7 +126,6 @@ body {
   }
 }
 
-/* Extra small screens */
 @media (max-width: 380px) {
   .search input {
     font-size: 14px;
@@ -154,7 +152,6 @@ body {
   }
 }
 
-/* Ultra small screens (300px) */
 @media (max-width: 300px) {
   .card {
     padding: 20px 10px;
@@ -174,7 +171,7 @@ body {
   .search button {
     width: 40px;
     height: 40px;
-    border-radius: 50%; /* Keep button perfectly rounded */
+    border-radius: 50%; 
   }
 
   .search button img {
@@ -209,3 +206,4 @@ body {
     font-size: 10px;
   }
 }
+
